@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058714608396",
+    "project_id": "cropcheck-50dc9",
+    "storage_bucket": "cropcheck-50dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058714608396:android:0232921873f45a41621f29",
+        "android_client_info": {
+          "package_name": "com.afdzn.cropcheckpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHKx9rtrjxt_VrPU1xJG2BqM6PnT_ABPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+0 Sugarcane_healthy
+1 Sugarcane_mosaic
+2 Sugarcane_red_rot
+3 Sugarcane_rust
+4 Sugarcane_yellow_leaf

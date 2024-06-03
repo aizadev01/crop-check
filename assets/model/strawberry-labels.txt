@@ -1,0 +1,2 @@
+0 Strawberry_healthy
+1 Strawberry_leaf_scorch

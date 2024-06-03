@@ -1,0 +1,4 @@
+0 Corn_healthy
+1 Corn_common_rust
+2 Corn_gray_leaf_spot
+3 Corn_northern_leaf_blight
