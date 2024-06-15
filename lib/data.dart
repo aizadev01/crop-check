@@ -1,12 +1,12 @@
+import 'package:cropcheckpro/Data/apple.dart';
 import 'package:cropcheckpro/Data/bell-pepper.dart';
+import 'package:cropcheckpro/Data/corn.dart';
 import 'package:cropcheckpro/Data/grapes.dart';
 import 'package:cropcheckpro/Data/potato.dart';
 import 'package:cropcheckpro/Data/strawberry.dart';
 import 'package:cropcheckpro/Data/sugarcane.dart';
 import 'package:cropcheckpro/models/ModelConfig.dart';
 import 'package:cropcheckpro/models/plant.dart';
-import 'Data/apple.dart';
-import 'Data/corn.dart';
 
 List<Plant> plants = [
   Plant(

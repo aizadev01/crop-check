@@ -41,7 +41,7 @@ List<Plant> applePlants = [
   Plant(
       plantType: 'Apple',
       plantName: 'Apple Rust',
-      image: 'assets/images/apple-leaf-scab.jpeg',
+      image: 'assets/images/apple-rust.jpeg',
       subPlants: [],
       modal: ModelConfig(modalPath: '', labelPath: ''),
       treatment: TreatmentData(
@@ -79,111 +79,26 @@ List<Plant> applePlants = [
   Plant(
       plantType: 'Apple',
       plantName: 'Apple Brown Spot',
-      image: 'assets/images/apple-leaf-scab.jpeg',
+      image: 'assets/images/apple-brown-spot.jpg',
       subPlants: [],
       modal: ModelConfig(modalPath: '', labelPath: ''),
       treatment:
           TreatmentData(
               description: "Apple brown spot disease, caused by the fungus Marssonina coronaria, appears as dark brown, necrotic lesions on apple leaves, fruit, and sometimes stems. These spots can merge, forming larger blotches that disrupt photosynthesis, leading to premature leaf drop and reduced fruit quality. The disease can significantly impact the overall health and productivity of the apple tree, making early detection and management crucial.",
-              points: [
-       "Pruning:Prune affected branches and remove any infected leaves or fruit to reduce the spread of the disease.
-          Dispose of pruned material away from the orchard to prevent reinfection.", "Fungicides:
-
-              Apply fungicides labeled for apple brown spot according to the manufacturer's instructions.
-          Copper-based fungicides are commonly used to control fungal diseases in apple trees.
-          Begin applications preventatively in early spring before symptoms appear and continue at regular intervals throughout the growing season.", "Sanitation:
-
-          Keep the orchard clean and free of debris to minimize the presence of fungal spores.
-          Rake up fallen leaves and fruit, and remove any mummified fruit left on the tree or ground.", "Alternate Host Management:
-
-          Control alternate hosts such as cedar or juniper trees in the vicinity of the orchard.
-          Prune back overhanging branches and remove infected trees if possible to reduce the source of fungal spores.
-          ","Cultural Practices:
-
-          Maintain good airflow and reduce humidity in the orchard by spacing trees adequately and thinning branches as needed.
-              Avoid overhead irrigation, which can promote fungal growth, and water early in the day to allow foliage to dry quickly.","Resistant Varieties:
-
-          Plant apple tree varieties that are resistant to apple brown spot if available.
-          While no apple tree is entirely immune to the disease, resistant varieties may exhibit greater tolerance and require less intensive management.", "Monitoring:
-
-          Regularly inspect apple trees for signs of apple brown spot, especially during periods of warm, humid weather conducive to fungal growth.
-          Early detection allows for prompt intervention and better disease management.", "Professional Consultation:
-
-          In severe cases or if the disease persists despite control efforts, seek advice from agricultural extension services or professional arborists.
-          They can provide tailored recommendations and assistance in managing apple brown spot effectively.",])),
+              points: ["Pruning:Prune affected branches and remove any infected leaves or fruit to reduce the spread of the disease.Dispose of pruned material away from the orchard to prevent reinfection.","Fungicides:Apply fungicides labeled for apple brown spot according to the manufacturer's instructions.Copper-based fungicides are commonly used to control fungal diseases in apple trees.Begin applications preventatively in early spring before symptoms appear and continue at regular intervals throughout the growing season.", "Sanitation:Keep the orchard clean and free of debris to minimize the presence of fungal spores.Rake up fallen leaves and fruit, and remove any mummified fruit left on the tree or ground.","Alternate Host Management:Control alternate hosts such as cedar or juniper trees in the vicinity of the orchard.Prune back overhanging branches and remove infected trees if possible to reduce the source of fungal spores.","Cultural Practices:Maintain good airflow and reduce humidity in the orchard by spacing trees adequately and thinning branches as needed.Avoid overhead irrigation, which can promote fungal growth, and water early in the day to allow foliage to dry quickly.","Resistant Varieties:Plant apple tree varieties that are resistant to apple brown spot if available.While no apple tree is entirely immune to the disease, resistant varieties may exhibit greater tolerance and require less intensive management.", "Monitoring:Regularly inspect apple trees for signs of apple brown spot, especially during periods of warm, humid weather conducive to fungal growth.Early detection allows for prompt intervention and better disease management.", "Professional Consultation:In severe cases or if the disease persists despite control efforts, seek advice from agricultural extension services or professional arborists.They can provide tailored recommendations and assistance in managing apple brown spot effectively.",])),
   Plant(
       plantType: 'Apple',
       plantName: 'Apple Gray Spot',
-      image: 'assets/images/apple-leaf-scab.jpeg',
+      image: 'assets/images/apple-gray-spot.jpg',
       subPlants: [],
       modal: ModelConfig(modalPath: '', labelPath: ''),
       treatment:
-          TreatmentData(description: "Apple gray spot disease, caused by the fungus Pestalotia malicola, is characterized by grayish lesions on apple leaves, fruit, and sometimes stems. These lesions can expand, creating larger patches that disrupt photosynthesis, lead to premature leaf drop, and affect fruit quality. The disease can significantly impact the health and productivity of the apple tree, making effective management essential.",
-              points: [
-        "Pruning:
-
-              Prune affected branches and remove any infected leaves or fruit to reduce the spread of the disease.
-              Dispose of pruned material away from the orchard to prevent reinfection.","Fungicides:
-
-              Apply fungicides labeled for apple gray spot according to the manufacturer's instructions.
-              Copper-based fungicides are commonly used to control fungal diseases in apple trees.
-              Begin applications preventatively in early spring before symptoms appear and continue at regular intervals throughout the growing season.
-              ","Sanitation:
-
-              Keep the orchard clean and free of debris to minimize the presence of fungal spores.
-              Rake up fallen leaves and fruit, and remove any mummified fruit left on the tree or ground.","Alternate Host Management:
-
-              Control alternate hosts such as nearby plants that may harbor the fungus.
-              Prune back overhanging branches and remove infected plants if possible to reduce the source of fungal spores.
-              ","Cultural Practices:
-
-              Maintain good airflow and reduce humidity in the orchard by spacing trees adequately and thinning branches as needed.
-              Avoid overhead irrigation, which can promote fungal growth, and water early in the day to allow foliage to dry quickly.
-              ","Resistant Varieties:
-
-              Plant apple tree varieties that are resistant to apple gray spot if available.
-              While no apple tree is entirely immune to the disease, resistant varieties may exhibit greater tolerance and require less intensive management.","Monitoring:
-
-              Regularly inspect apple trees for signs of apple gray spot, especially during periods of warm, humid weather conducive to fungal growth.
-              Early detection allows for prompt intervention and better disease management.","Professional Consultation:
-
-              In severe cases or if the disease persists despite control efforts, seek advice from agricultural extension services or professional arborists.
-              They can provide tailored recommendations and assistance in managing apple gray spot effectively.",
-      ])),
+          TreatmentData(description:"Apple gray spot disease, caused by the fungus Pestalotia malicola, is characterized by grayish lesions on apple leaves, fruit, and sometimes stems. These lesions can expand, creating larger patches that disrupt photosynthesis, lead to premature leaf drop, and affect fruit quality. The disease can significantly impact the health and productivity of the apple tree, making effective management essential.",points: ["Pruning:Prune affected branches and remove any infected leaves or fruit to reduce the spread of the disease.Dispose of pruned material away from the orchard to prevent reinfection.","Fungicides:Apply fungicides labeled for apple gray spot according to the manufacturer's instructions.Copper-based fungicides are commonly used to control fungal diseases in apple trees.Begin applications preventatively in early spring before symptoms appear and continue at regular intervals throughout the growing season.","Sanitation:Keep the orchard clean and free of debris to minimize the presence of fungal spores.Rake up fallen leaves and fruit, and remove any mummified fruit left on the tree or ground.","Alternate Host Management:Control alternate hosts such as nearby plants that may harbor the fungus.Prune back overhanging branches and remove infected plants if possible to reduce the source of fungal spores.","Cultural Practices:Maintain good airflow and reduce humidity in the orchard by spacing trees adequately and thinning branches as needed.Avoid overhead irrigation, which can promote fungal growth, and water early in the day to allow foliage to dry quickly.","Resistant Varieties:Plant apple tree varieties that are resistant to apple gray spot if available.While no apple tree is entirely immune to the disease, resistant varieties may exhibit greater tolerance and require less intensive management.","Monitoring:Regularly inspect apple trees for signs of apple gray spot, especially during periods of warm, humid weather conducive to fungal growth.Early detection allows for prompt intervention and better disease management.","Professional Consultation:In severe cases or if the disease persists despite control efforts, seek advice from agricultural extension services or professional arborists.They can provide tailored recommendations and assistance in managing apple gray spot effectively.",])),
   Plant(
       plantType: 'Apple',
       plantName: 'Apple Black Rot',
       image: 'assets/images/apple-black-rot.jpeg',
       subPlants: [],
       modal: ModelConfig(modalPath: '', labelPath: ''),
-      treatment: TreatmentData(
-          description:
-              "Apple black rot disease, caused by the fungus Botryosphaeria obtusa, affects apple trees by producing dark, sunken lesions on the fruit, leaves, and branches. Infected fruit exhibit characteristic black rot spots, often leading to complete fruit decay. Leaves may develop purple-bordered spots, and branches can show signs of cankers, leading to dieback. This disease can severely impact tree health and fruit quality, necessitating effective management.",
-          points: [
-            "Pruning:Prune affected branches and remove any infected leaves or fruit to reduce the spread of the disease.
-      Dispose of pruned material away from the orchard to prevent reinfection.
-      ","Fungicides:
-
-          Apply fungicides labeled for apple black rot according to the manufacturer's instructions.
-      Copper-based and other appropriate fungicides can help control fungal diseases in apple trees.
-      Begin applications preventatively in early spring before symptoms appear and continue at regular intervals throughout the growing season.","Sanitation:
-
-      Keep the orchard clean and free of debris to minimize the presence of fungal spores.
-      Rake up fallen leaves and fruit, and remove any mummified fruit left on the tree or ground.","Alternate Host Management:
-
-      Control alternate hosts such as brambles and wild apples in the vicinity of the orchard.
-      Prune back overhanging branches and remove infected plants if possible to reduce the source of fungal spores.","Cultural Practices:
-
-      Maintain good airflow and reduce humidity in the orchard by spacing trees adequately and thinning branches as needed.
-          Avoid overhead irrigation, which can promote fungal growth, and water early in the day to allow foliage to dry quickly.","Resistant Varieties:
-
-      Plant apple tree varieties that are resistant to apple black rot if available.
-      While no apple tree is entirely immune to the disease, resistant varieties may exhibit greater tolerance and require less intensive management.","Monitoring:
-
-      Regularly inspect apple trees for signs of apple black rot, especially during periods of warm, humid weather conducive to fungal growth.
-      Early detection allows for prompt intervention and better disease management.","Professional Consultation:
-
-      In severe cases or if the disease persists despite control efforts, seek advice from agricultural extension services or professional arborists.
-      They can provide tailored recommendations and assistance in managing apple black rot effectively.",
-          ])),
-];
+      treatment:
+           TreatmentData(description:"Apple black rot disease, caused by the fungus Botryosphaeria obtusa, affects apple trees by producing dark, sunken lesions on the fruit, leaves, and branches. Infected fruit exhibit characteristic black rot spots, often leading to complete fruit decay. Leaves may develop purple-bordered spots, and branches can show signs of cankers, leading to dieback. This disease can severely impact tree health and fruit quality, necessitating effective management.",points:["Pruning:Prune affected branches and remove any infected leaves or fruit to reduce the spread of the disease.Dispose of pruned material away from the orchard to prevent reinfection.","Fungicides:Apply fungicides labeled for apple black rot according to the manufacturer's instructions.Copper-based and other appropriate fungicides can help control fungal diseases in apple trees.Begin applications preventatively in early spring before symptoms appear and continue at regular intervals throughout the growing season.","Sanitation:Keep the orchard clean and free of debris to minimize the presence of fungal spores.Rake up fallen leaves and fruit and remove any mummified fruit left on the tree or ground.","Alternate Host Management:Control alternate hosts such as brambles and wild apples in the vicinity of the orchard.Prune back overhanging branches and remove infected plants if possible to reduce the source of fungal spores.","Cultural Practices:Maintain good airflow and reduce humidity in the orchard by spacing trees adequately and thinning branches as needed.Avoid overhead irrigation, which can promote fungal growth,and water early in the day to allow foliage to dry quickly.","Resistant Varieties:Plant apple tree varieties that are resistant to apple black rot if available.While no apple tree is entirely immune to the disease,resistant varieties may exhibit greater tolerance and require less intensive management.","Monitoring:Regularly inspect apple trees for signs of apple black rot,especially during periods of warm,humid weather conducive to fungal growth.Early detection allows for prompt intervention and better disease management.","Professional Consultation:In severe cases or if the disease persists despite control efforts,seek advice from agricultural extension services or professional arborists.They can provide tailored recommendations and assistance in managing apple black rot effectively.",])),];

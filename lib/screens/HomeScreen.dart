@@ -77,7 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
               },
               items: const [
                 Icon(Icons.home),
-                Icon(Icons.image_search_outlined),
+                Icon(Icons.sunny),
                 Icon(Icons.person),
               ],
             ),
