@@ -19,7 +19,7 @@ List<Plant> strawberryPlants = [
   Plant(
       plantType: 'Strawberry',
       plantName: 'Strawberry Healthy Leaf',
-      image: 'assets/images/strawberry-healthy.png',
+      image: 'assets/images/strawberry-healthy.jpg',
       subPlants: [],
       modal: ModelConfig(modalPath: '', labelPath: ''),
       treatment: TreatmentData(
@@ -28,7 +28,7 @@ List<Plant> strawberryPlants = [
   Plant(
       plantType: 'Strawberry',
       plantName: 'Strawberry Leaf Scorch',
-      image: 'assets/images/strawberry-leaf-scorch.png',
+      image: 'assets/images/strawberry-leaf-scorch.jpg',
       subPlants: [],
       modal: ModelConfig(modalPath: '', labelPath: ''),
       treatment: TreatmentData(
